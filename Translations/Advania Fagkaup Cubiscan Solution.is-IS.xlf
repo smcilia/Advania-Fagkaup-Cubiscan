@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="is-IS" original="Advania Fagkaup Cubiscan Solution.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3889559081 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cubiscan Processing Log</source>
+          <target>Atvikaskrá fyrir Cubiscan Innlestur</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 1650050144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Barcode</source>
+          <target>Strikamerki</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Barcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Lýsing</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Færslunr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Vörunr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 1385229779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JSON File Name</source>
+          <target>Heiti JSON skrár</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field JSON File Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 3766239237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Dim Wgt</source>
+          <target>Nettó Víddarþyngd</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Net Dim Wgt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 2900483548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Height</source>
+          <target>Nettó Hæð</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Net Height - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 456620717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Length</source>
+          <target>Nettó Lengd</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Net Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 2849264193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Volume</source>
+          <target>Nettó Rúmmál</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Net Volume - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 3088522385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Weight</source>
+          <target>Nettóþyngd</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Net Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 3128045323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Width</source>
+          <target>Nettó Breidd</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Net Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Staða</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 1281950730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeIngested</source>
+          <target>Tími innlestrar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field TimeIngested - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 1920046521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <target>Mælieining</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3889559081 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>Notandi</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Log - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1319749464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cubiscan Data Processing Setup</source>
+          <target>Cubiscan Gagnavinnsluuppsetning</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1319749464 - Field 804481195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <target>Skráarheiti</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Setup - Field File Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1319749464 - Field 3128080485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Folder Location</source>
+          <target>Staðsetning möppu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Setup - Field Folder Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1319749464 - Field 3348941625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Key</source>
+          <target>Lykill</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Setup - Field Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1319749464 - Field 108932325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Updated</source>
+          <target>Síðast uppfært</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Setup - Field LastUpdate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1319749464 - Field 146363336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Uploaded JSON File</source>
+          <target>JSON skrá nafn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ADV Cubiscan Ingestion Setup - Field Uploaded JSON File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3670563565 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cubiscan Processing Log Entries</source>
+          <target>Cubiscan innlestrar stöðufærslur</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingest. Log List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cubiscan Data Upload</source>
+          <target>Cubiscan Gagnainnlestur</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Control 2316947810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Entries</source>
+          <target>Skráarfærslur</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Control LogEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Control 701918397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Cubiscan Data File</source>
+          <target>Hlaða inn Cubiscan gagnaskrá</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Control Upload - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Control 989751795 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File name of uploaded file.</source>
+          <target>Skáarnafn upphlaðnar skrár</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Control FileName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Control 989751795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <target>Skráarheiti</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Control FileName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Control 511906461 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Folder path where the JSON file is stored named Media Upload if uploaded via the client.</source>
+          <target>Saðsetning JSON skrár ef henni er hlaðið upp beint í Business Central þá er þetta gildi Meida Upload</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Control FolderLocation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Control 511906461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Folder Location</source>
+          <target>Staðsetning möppu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Control FolderLocation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Control 108932325 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date and time when the setup was last updated.</source>
+          <target>Síðasti uppfærslutími</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Control LastUpdate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Control 108932325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Updated</source>
+          <target>Síðast uppfært</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Control LastUpdate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Control 2808848296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click (…) to select a JSON file to upload.</source>
+          <target>Smelltu á (…) til að velja JSON skrá til að hlaða inn.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Control UploadedJsonFile - Property ToolTip</note>
+        </trans-unit>
+       <trans-unit id="Page 1319749464 - Control 2808848296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JSON file from Cubiscan</source>
+          <target>JSON skrá úr Cubiscan</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Control UploadedJsonFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Action 1473277525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch update items with Cubiscan Data</source>
+          <target>Verkraðara uppfærsla á vörum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Action BatchImportCubiscan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Action 1538183569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update items with Cubiscan data</source>
+          <target>Uppfæra vörur með Cubiscan gögnum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Action ImportCubiscan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Action 316866893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Json File from Cubiscan</source>
+          <target>Hlaða inn Json skrá úr Cubiscan</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Action ImportJsonFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - Action 4254985940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate Cubiscan JSON</source>
+          <target>Villuprófa Cubiscan JSON</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - Action ValidateFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1319749464 - NamedType 787310327" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click (…) to upload JSON file</source>
+          <target>Smelltu á (…) til að hlaða inn JSON srá</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ADV Cubiscan Ingestion Setup - NamedType UploadJsonLabel</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff> 

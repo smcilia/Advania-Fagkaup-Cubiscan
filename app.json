@@ -1,0 +1,54 @@
+{
+  "id": "075a9a60-8da1-4bbd-9ea6-48433dd0f116",
+  "name": "Advania Fagkaup Cubiscan Solution",  
+    "publisher":  "Advania",    
+    "brief":  "Fagkaup Custom Solution for Cubiscan 100",
+    "description":  "Fagkaup Custom Solution for ingestion of Cubiscan 100 scan data",
+    "version":  "1.0.0.2",    
+    "privacyStatement": "https://privacy.d365bc.is",
+    "EULA": "https://eula.d365bc.is",
+    "help": "https://Fagkaup.is/",
+    "url":  "https://Fagkaup.is/",
+    "contextSensitiveHelpUrl": "https://Fagkaup.is",    
+    "target":  "OnPrem",    
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": false          
+    },
+    "supportedLocales": [
+        "en-US",
+        "is-IS"
+    ],
+    "features":  [ "TranslationFile"          
+                 ],
+    "propagateDependencies": true,     
+    "dependencies":  [ 
+                 {
+                        "id": "1aed8d8c-5be9-49e9-8d13-ae56dba5d86c",
+                        "publisher": "Advania",
+                        "name": "Advania Electronic Document Exchange",
+                        "version": "23.1.110.0"
+                 },
+                 {
+                        "id": "12f1eb47-38ce-4c77-ba14-2939363c8835",
+                        "publisher": "Advania",
+                        "name": "Advania Document Sending Service",
+                        "version": "23.1.25.0"
+                 }
+    
+                     ],
+    "screenshots":  [
+
+                    ],
+    "platform":  "23.0.0.0",
+    "application":  " 23.1.13431.13812",
+    "runtime": "12.0",
+    "idRanges":
+            [
+                {
+                    "from":  50000,
+                    "to":  99999
+                }
+            ]
+}
